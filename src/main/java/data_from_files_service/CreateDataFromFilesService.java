@@ -9,5 +9,4 @@ public class CreateDataFromFilesService {
             default: throw new IllegalArgumentException("нет такого типа данных: " + value);
         }
     }
-
 }
