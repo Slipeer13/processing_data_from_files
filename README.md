@@ -14,3 +14,5 @@
    - java Main -i out.txt in.txt (для целых чисел по возрастанию)
    - java Main -a -i out.txt in.txt (для целых чисел по возрастанию)
    - java Main -d -i out.txt in.txt (для целых чисел по убыванию)
+   - java Main -a -s out.txt in.txt (для строк по возрастанию)
+   - java Main -d -s out.txt in.txt (для строк по убыванию)
